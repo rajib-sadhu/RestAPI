@@ -10,7 +10,7 @@ const products_routes =require("./routes/products");
 
 
 app.get("/",(req,res)=>{
-    res.send("Home root OK!");
+    res.send("Welcome to Rajib Demo API Site..... please go to '/api/product'");
 });
 
 // middleware or to set router
