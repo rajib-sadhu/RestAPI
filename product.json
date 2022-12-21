@@ -1,0 +1,37 @@
+[
+    {
+        "name":"I Phone X",
+        "price":59000,
+        "featured":true,
+        "rating":4.5,
+        "company":"apple"
+    },
+    {
+        "name":"I Phone 13",
+        "price":150000,
+        "featured":false,
+        "rating":4.4,
+        "company":"apple"
+    },
+    {
+        "name":"Note 10",
+        "price":15000,
+        "featured":true,
+        "rating":4.1,
+        "company":"xiaomi"
+    },
+    {
+        "name":"Galaxy JX",
+        "price":20000,
+        "featured":true,
+        "rating":3.9,
+        "company":"samsung"
+    },
+    {
+        "name":"10R",
+        "price":39000,
+        "featured":false,
+        "rating":4.6,
+        "company":"oneplus"
+    }
+]
