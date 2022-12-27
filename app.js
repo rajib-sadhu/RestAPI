@@ -5,7 +5,7 @@ const app = express();
 const connectDB =require("./db/connect");
 const PORT = process.env.PORT || 5000;
 
-
+//products
 const products_routes =require("./routes/products");
 
 
